@@ -6,7 +6,15 @@ Proyecto sencillo en Python que utiliza MediaPipe y OpenCV para detectar la mall
 
 La siguiente imagen muestra el resultado del programa: la malla facial (landmarks) dibujada sobre la cara de la persona en tiempo real.
 
-![Demostración Face Mesh](assets/demo.png)
+---
+
+<a> Demostracion del Face Mesh.<a>
+
+<p align="center">
+  <img src="Screenshot 2025-03-11 at 19-01-44 Calculadora.png" alt="Captura de pantalla" width="120">
+</p>
+
+---
 
 > Nota: la imagen de demostración no está incluida automáticamente. Coloca una captura llamada `demo.png` en la carpeta `assets/` (ruta `assets/demo.png`) para que se muestre aquí.
 
