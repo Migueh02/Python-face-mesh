@@ -3,7 +3,7 @@
 <a> Demostracion del Face Mesh.<a>
 
 <p align="center">
-  <img src="image.png" alt="Captura de pantalla" width="500">
+  <img src="image.png" alt="Captura de pantalla" width="600">
 </p>
 
 ---
