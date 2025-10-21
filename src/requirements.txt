@@ -1,0 +1,20 @@
+
+# Dependencias mínimas detectadas en el virtualenv `venv_mediapipe`
+# (versiones extraídas del directorio `venv_mediapipe\Lib\site-packages`)
+mediapipe==0.10.14
+opencv-contrib-python==4.12.0.88
+opencv-python==4.12.0.88
+numpy==2.2.6
+scipy==1.15.3
+pillow==12.0.0
+absl-py==2.3.1
+protobuf==4.25.8
+python-dateutil==2.9.0.post0
+pyparsing==3.2.5
+packaging==25.0
+
+# Notas:
+# - `opencv-contrib-python` y `opencv-python` aparecen instalados en el entorno;
+#   si quieres reducir el tamaño instala solo uno (por ejemplo `opencv-contrib-python`).
+# - Si tu plataforma requiere paquetes binarios específicos (p. ej. jaxlib), instálalos
+#   manualmente según tu plataforma.
