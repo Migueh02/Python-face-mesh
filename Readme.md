@@ -1,11 +1,3 @@
-# Python Face Mesh
-
-Proyecto sencillo en Python que utiliza MediaPipe y OpenCV para detectar la malla facial (face mesh) en tiempo real desde la cámara. El repositorio contiene un ejemplo mínimo que captura video, procesa los frames con MediaPipe Face Mesh y dibuja la red de puntos sobre el rostro.
-
-## Captura de pantalla / demostración
-
-La siguiente imagen muestra el resultado del programa: la malla facial (landmarks) dibujada sobre la cara de la persona en tiempo real.
-
 ---
 
 <a> Demostracion del Face Mesh.<a>
@@ -16,7 +8,13 @@ La siguiente imagen muestra el resultado del programa: la malla facial (landmark
 
 ---
 
-> Nota: la imagen de demostración no está incluida automáticamente. Coloca una captura llamada `demo.png` en la carpeta `assets/` (ruta `assets/demo.png`) para que se muestre aquí.
+# Python Face Mesh
+
+Proyecto sencillo en Python que utiliza MediaPipe y OpenCV para detectar la malla facial (face mesh) en tiempo real desde la cámara. El repositorio contiene un ejemplo mínimo que captura video, procesa los frames con MediaPipe Face Mesh y dibuja la red de puntos sobre el rostro.
+
+## Captura de pantalla / demostración
+
+La siguiente imagen muestra el resultado del programa: la malla facial (landmarks) dibujada sobre la cara de la persona en tiempo real.
 
 ## Requisitos
 
