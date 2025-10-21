@@ -3,7 +3,7 @@
 <a> Demostracion del Face Mesh.<a>
 
 <p align="center">
-  <img src="Screenshot 2025-03-11 at 19-01-44 Calculadora.png" alt="Captura de pantalla" width="120">
+  <img src="image.png" alt="Captura de pantalla" width="120">
 </p>
 
 ---
